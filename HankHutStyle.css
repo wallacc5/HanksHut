@@ -1,9 +1,13 @@
 ﻿
-body {background-color: #F7F7F7;
-    color: #17202A;}
+body {background-color: #bee8fc; 
+    background-image: linear-gradient(to bottom, #FFFFFF, #bee8fc); 
+    background-repeat: no-repeat;
+    color: #17202A; margin: 20px 20px 20px 20px;}
 h1 {background-color: #D0D3D4;
-    color: #2E86C1; font-weight: bolder; text-align: center}
+    color: #2E86C1; font-weight: bolder; font-size: 300%; line-height: 250%; text-align: center}
 h2 {color: #2E86C1; font-weight: bold}
-p, body, nav, footer {letter-spacing: 1px}
-nav {background-color: #F7F7F7; color: #2E86C1;}
-footer {color: #666666;}
+p, body, footer {letter-spacing: 1px}
+nav {letter-spacing: 1.5px}
+nav {background-color: #D0D3D4; color: #2E86C1;}
+footer {color: #666666; text-align:center; }
+ 
