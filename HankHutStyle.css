@@ -3,11 +3,18 @@ body {background-color: #bee8fc;
     background-image: linear-gradient(to bottom, #FFFFFF, #bee8fc); 
     background-repeat: no-repeat;
     color: #17202A; margin: 20px 20px 20px 20px;}
-h1 {background-color: #D0D3D4;
-    color: #2E86C1; font-weight: bolder; font-size: 300%; line-height: 250%; text-align: center}
+h1 {background-color: #D0D3D4; 
+    background-image: url(threehappydogs.jpg); 
+    background-size: contain; 
+    background-repeat: repeat-x; 
+    color: black;
+    font-weight: bolder; 
+    font-size: 400%; 
+    line-height: 250%;
+    text-align: center;
+    border: 5px solid black}
 h2 {color: #2E86C1; font-weight: bold}
 p, body, footer {letter-spacing: 1px}
 nav {letter-spacing: 1.5px}
-nav {background-color: #D0D3D4; color: #2E86C1;}
-footer {color: #666666; text-align:center; }
- 
+nav {color: #2E86C1;}
+footer {color: #666666; text-align:center}
